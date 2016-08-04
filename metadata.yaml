@@ -1,0 +1,35 @@
+_repo: Marjorie-s-Three-Gifts_5352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: Can't get enough of Little Women? Try Marjorie's Three Gifts, a similarly
+  engaging and heartwarming tale from Louisa May Alcott, the author who brought to
+  life Meg, Jo, Beth, and Amy, some of the most beloved characters in American literature.
+  This short story incorporates enchanted fairy-tale elements that will please fans
+  of classic fables such as Cinderella.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PS'
+- GITenberg
+title: Marjorie's Three Gifts
+url: http://www.gutenberg.org/ebooks/5352
