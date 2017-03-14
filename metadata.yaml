@@ -1,5 +1,8 @@
 _repo: Marjorie-s-Three-Gifts_5352
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -17,6 +20,8 @@ description: Can't get enough of Little Women? Try Marjorie's Three Gifts, a sim
   life Meg, Jo, Beth, and Amy, some of the most beloved characters in American literature.
   This short story incorporates enchanted fairy-tale elements that will please fans
   of classic fables such as Cinderella.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5352#Marjorie-s-Three-Gifts
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
